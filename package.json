@@ -1,0 +1,19 @@
+{
+  "name": "google-map-block-cgb-guten-block",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "@wordpress/editor": "^9.26.0",
+    "@wordpress/icons": "^2.10.0",
+    "cgb-scripts": "1.23.1",
+    "lodash.throttle": "^4.1.1",
+    "react-google-maps": "^9.4.5",
+    "recompose": "^0.30.0",
+    "uniqid": "^5.3.0"
+  }
+}
