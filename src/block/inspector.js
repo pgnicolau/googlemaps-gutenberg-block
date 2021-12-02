@@ -153,7 +153,7 @@ function Inspector( props ) {
 				value={ api_key }
 				onChange={ api_key => {
 					if ( ! api_key ) {
-						api_key = 'AIzaSyAdo5hu6O9gjTKD8iSDS04QJkCaYHDPXps';
+						api_key = '';
 					}
 					setAttributes( { api_key } );
 				} }
